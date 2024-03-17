@@ -1,3 +1,4 @@
+STEPS:
 how create repo:craete new repository 
 then in cmd promt,to clone the repo to laptop
     git clone url(http)
