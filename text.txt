@@ -1,0 +1,9 @@
+how create repo:craete new repository 
+then in cmd promt,to clone the repo to laptop
+    git clone url(http)
+    check the folder see the repo and  .git folder(it will creating communication netween global repo and local repo)
+create sample txt file use git add,git commit,git push
+    git add filename(ready to stage)
+    git commit msg(comment)
+    git push(push to git)
+    git pull(download from git)
