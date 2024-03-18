@@ -1,0 +1,22 @@
+h1{
+    font-family:cursive;
+    background-color: yellow;
+    color: black;
+    text-decoration: underline;
+    font-size: 50px;
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color:rgba(0, 0, 0,0);
+   text-transform: uppercase;
+   
+}
+p{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+h1{
+    
+}
